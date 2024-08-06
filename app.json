@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kevinfraga.Teste_React_Native"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0cd710d6-75e1-4006-ab4c-ec7d6c35de79"
+      }
+    },
+    "owner": "kevinfraga"
   }
 }
